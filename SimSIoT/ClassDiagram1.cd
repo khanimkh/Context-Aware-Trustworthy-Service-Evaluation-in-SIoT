@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimSIoT.DomainObjects.Context_Feedback">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKgAAAAAAAAAAAAAAWAAAAAAAAAAAAAQAgAAQAAAA=</HashCode>
+      <FileName>DomainObjects\Context_Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimSIoT.DomainObjects.Device">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimSIoT.DomainObjects.Device.Device_Role" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Device.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ggADAAACAAACAAABEAAUAAAIBAAAgAQACQAQAAAAEFA=</HashCode>
+      <FileName>DomainObjects\Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimSIoT.DomainObjects.Service">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimSIoT.DomainObjects.Service.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimSIoT.DomainObjects.Service.Time" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimSIoT.DomainObjects.Service.QoS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimSIoT.DomainObjects.Service.TimeResponse" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimSIoT.DomainObjects.Service.TimeUsing" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SimSIoT.DomainObjects.Service.ReosurcesUsing" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Service.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIgAAACAhAIQAAAAgQAgAAENAAAABAAAAEAQRABAA=</HashCode>
+      <FileName>DomainObjects\Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimSIoT.DomainObjects.Unit">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimSIoT.DomainObjects.Unit.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\Unit.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainObjects\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimSIoT.DomainObjects.User">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimSIoT.DomainObjects.User.Prof" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DomainObjects\User.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAAAAAAAAAAAAAQAAAAEAAgAAAAAAA=</HashCode>
+      <FileName>DomainObjects\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimSIoT.Simulator">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABcgAAWBCAABsAAAIDAABoOCAAhkAQEgCIAQCEEAAQ=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
